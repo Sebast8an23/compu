@@ -1,0 +1,42 @@
+#tabla1
+{
+    width: 50%;
+    border-radius: 2em;
+    border-style: dashed;
+    border-width: 1em;
+    text-align: center;
+}
+#tabla2
+{
+    width: 50%;
+    border-radius: 2em;
+    border-style: dotted;
+    border-width: 1em;
+    text-align: center;
+}
+.img1a
+{
+    width: 150px;
+    height: 250px;
+    border-radius: 2em;
+    border-style: dashed;
+    color: rgb(143, 228, 46);
+}
+.img1b
+{
+    width: 250px;
+    height: 350px;
+    border-radius: 2em;
+    border-style: dashed;
+    color: rgb(143, 228, 46);
+}
+.table-wrapper
+{
+    display: flex;
+  justify-content: center;
+}
+td
+{
+    background-color: blanchedalmond;
+    border-radius: 2em;
+}
